@@ -9,7 +9,7 @@ To complete 30 days of hands-on Python and SQL exercises by following a structur
 ## 📚 Plan Overview
 
 - **Week 1:** Python Basics + Intro to SQL  
-- **Week 2:** Functions, Logic,DSA and SQL CRUD Operations  
+- **Week 2:** Functions, Logic, and SQL CRUD Operations  
 - **Week 3:** Small Projects with Python & SQL  
 - **Week 4:** Capstone Project - CLI App with Database Integration  
 
