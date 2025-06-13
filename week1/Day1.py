@@ -1,4 +1,4 @@
-#Day2:Python Basics: Write a script: Hello World, user input
+#Day1:Python Basics: Write a script: Hello World, user input
 
 print("Hello World")#In python we use print() function to print output in screen
 print(30)
