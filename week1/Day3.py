@@ -1,4 +1,4 @@
-#Day 3 - Control Flow(Conditional Statements and Loops): Use if, elif, else,for,while
+#Day 3 - Control Flow(Conditional Statements and Looping Statements): Use if, elif, else,for,while
 
 #These statements are used to execute different blocks of code based on whether a condition is True or False
 #Following is a example of Traffic Signal
@@ -12,8 +12,8 @@ elif light=="green":
 else:
     print("Light is broken")
 
-###Looping statements are used to repeatedly execute a block of code as long as a specified condition is true.
 
+###Looping statements are used to repeatedly execute a block of code as long as a specified condition is true.
 #Syntax of for loop is= for variable in range(start,end,Increment/Decrement) although start and increment is optional
 for i in range(0,101,10):  #This is for Loop(The Index of loop is start from '0')
     print(i)
