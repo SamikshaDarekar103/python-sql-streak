@@ -1,5 +1,6 @@
 #Day4: Creating string, indexing, slicing, string methods, and f-string
 #A string is a sequence of characters enclosed in quotes.
+
 #Creating String
 first='Samiksha'
 last='Darekar'
@@ -43,7 +44,6 @@ print(text.split())
 #f-Strings used to insert variables directly inside strings.(it uses {} to insert variable)
 print(f"My First Name is {first} and Last Name is {last}")#first way
 print("My First Name is {} and Last Name is {} ".format(first,last))#second way
-
 
 print(f"I am {full_name.upper()} and I am larning {text.strip().upper()}")
 
