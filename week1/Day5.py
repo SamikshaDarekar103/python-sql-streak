@@ -54,7 +54,7 @@ str1='apple'
 print('a' in str1) #it checks if character a is present in str1 if yes then it returns True (Output:True)
 print('b' in str1) #(Output:False)
 print('b' not in str1) #(Output:True)
-
+#Example on List:
 customers=['samiksha','Richa','Priti']
 name=input('Enter your name:')
 if(name in customers):
