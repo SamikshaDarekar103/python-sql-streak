@@ -15,5 +15,5 @@ values
     (3,'Priti',21,'Yes'),
     (4,'Saee',22,'No'),
     (5,'Kalyani',23,'No');
-describe students     -- It gives the Whole Table as a result
+describe students     -- It gives the Whole Table Structure as a result i.e information about Columns etc
 
