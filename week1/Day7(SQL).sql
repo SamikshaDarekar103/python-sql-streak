@@ -1,3 +1,4 @@
+-- Day7: Perform various operations on Table like create,insert,delete,alter,drop,delete
 use sqlpractice;
 CREATE TABLE Employees (    -- Create This Table to perform different operations on it
    id INT PRIMARY KEY,
