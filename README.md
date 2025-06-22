@@ -5,6 +5,7 @@ Welcome to my 30-day coding streak! This project is designed to help me build da
 
 ## 🗓️ Goal
 To complete 30 days of hands-on Python and SQL exercises by following a structured daily plan and documenting my progress.
+In Every Week:5 Days Python and 2 Days SQL
 
 ## 📚 Plan Overview
 
