@@ -11,7 +11,7 @@ In Every Week:5 Days Python and 2 Days SQL
 
 - **Week 1:** Python Basics + Intro to SQL  
 - **Week 2:** Functions, Logic, and SQL CRUD Operations  
-- **Week 3:** Small Projects with Python & SQL  
+- **Week 3:** OOP in Python and SQL joins 
 - **Week 4:** Capstone Project - CLI App with Database Integration  
 
 ## 🧠 Why This?
