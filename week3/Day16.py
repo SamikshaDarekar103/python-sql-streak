@@ -1,5 +1,5 @@
 #Day16:Write a Function for Fibonacci series 
-def fibonacci(n):
+def fibonacci(n):   #Function Definition
     n1, n2 = 0, 1
     count = 0
     print("Fibonacci sequence:")
@@ -10,9 +10,7 @@ def fibonacci(n):
         n2 = nth
         count += 1
 
-# Get user input
 num_terms = int(input("How many terms? "))
-
 if num_terms <= 0:
     print("Please enter a positive integer.")
 else:
