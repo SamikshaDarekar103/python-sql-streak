@@ -1,6 +1,6 @@
 #Day23:User defined Exception
 #1]check Age
-'''class CheckAge(Exception):
+class CheckAge(Exception):
     def __init__(self, age):
         self.age = age
         self.message = "Age is below 18. You cannot vote."
@@ -13,7 +13,7 @@ try:
     else:
         print("You are eligible to vote.")
 except CheckAge as e:
-    print(e)'''
+    print(e)
 
 #2]Bank Withdrawal System
 
